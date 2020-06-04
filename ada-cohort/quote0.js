@@ -1,0 +1,1 @@
+module.exports = 'Blaine: When you say, "I wrote a program that crashed Windows," people just stare at you blankly and say, "Hey, I got those with the system, for free."';
