@@ -16,6 +16,15 @@
         new feature to the master branch. Be sure to make it descriptive!
     5. Blaine/Instructor will merge all your feature requests into master
     6. We can all pull master and see our quotes!
+
+    Example:
+    git checkout -b my-feature-branch
+    git add .
+    git status (go double check you're on the right branch)
+    git commit -am "Feature complete: xyz"
+    git push origin my-feature-branch
+
+    Then go to GitHub and make a Pull Request back to master!
 */
 const quotes = []
 quotes.push(require('./ada-cohort/quote0.js'));
