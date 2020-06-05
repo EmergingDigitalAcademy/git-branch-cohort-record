@@ -1,0 +1,1 @@
+module.exports = "Chris: Life is a hypocrite if I can't live the way it moves me --Christopher Fry"
