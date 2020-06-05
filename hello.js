@@ -41,6 +41,7 @@ quotes.push(require('./ada-cohort/quote10.js'));
 quotes.push(require('./ada-cohort/quote11.js'));
 quotes.push(require('./ada-cohort/quote12.js'));
 quotes.push(require('./ada-cohort/quote13.js'));
+quotes.push(require('./ada-cohort/quote14.js'));
 
 console.log('The Wall of Quotes!');
 for (let quote in quotes) {
