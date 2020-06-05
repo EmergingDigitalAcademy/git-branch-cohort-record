@@ -1,0 +1,1 @@
+module.exports = 'Jake Schaffer: Albert Einstein, "The important thing is to not stop questioning. Curiosity has its own reason for existing."';
