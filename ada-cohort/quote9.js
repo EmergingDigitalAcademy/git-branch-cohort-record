@@ -1,0 +1,1 @@
+module.exports = 'Jared: "The destiny of man is not to be measured by material computation"';
